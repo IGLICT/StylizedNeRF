@@ -47,11 +47,11 @@ If you find our work useful in your research, please consider citing:
     }
     
     @article{hu2020jittor,
-    title={Jittor: a novel deep learning framework with meta-operators and unified graph execution},
-    author={Hu, Shi-Min and Liang, Dun and Yang, Guo-Ye and Yang, Guo-Wei and Zhou, Wen-Yang},
-    journal={Information Sciences},
-    volume={63},
-    number={222103},
-    pages={1--21},
-    year={2020}
+      title={Jittor: a novel deep learning framework with meta-operators and unified graph execution},
+      author={Hu, Shi-Min and Liang, Dun and Yang, Guo-Ye and Yang, Guo-Wei and Zhou, Wen-Yang},
+      journal={Science China Information Sciences},
+      volume={63},
+      number={222103},
+      pages={1--21},
+      year={2020}
     }
