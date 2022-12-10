@@ -1,7 +1,11 @@
-# StylizedNeRF (Jittor): Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D mutual learning
+# StylizedNeRF Pytorch Implmentation
+
 
 ## Introduction
-This repository is code release for StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D mutual learning.
+
+#### Original Paper : StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D mutual learning
+
+
 
 <img src='teaser.png' width='800'>
 
